@@ -9,7 +9,7 @@ export default function Home() {
 			<header className={styles.header}>
 				<Image
 					src={illustration}
-					alt="Illustration"
+					alt=""
 					className={styles.illustration}
 				/>
 				<p className={styles.caption}>Learning</p>
@@ -23,7 +23,11 @@ export default function Home() {
 				</p>
 			</section>
 			<footer className={styles.footer}>
-				<Image src={avatar} alt="Avatar" className={styles.avatar} />
+				<Image
+					src={avatar}
+					alt="Greg Hooper"
+					className={styles.avatar}
+				/>
 				<p className={styles.name}>Greg Hooper</p>
 			</footer>
 		</main>

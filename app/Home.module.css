@@ -27,7 +27,7 @@
 }
 
 .caption {
-	background-color: var(--color-background);
+	background-color: var(--color-accent);
 	display: inline-block;
 	color: var(--color-text);
 	padding: 10px 15px;
@@ -55,7 +55,7 @@
 }
 
 .heading:hover {
-	color: var(--color-background);
+	color: var(--color-accent);
 }
 
 .text {

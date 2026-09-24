@@ -1,5 +1,6 @@
 :root {
 	--color-background: rgb(243, 201, 68);
+	--color-accent: rgb(243, 201, 68);
 	--color-text: rgb(27, 27, 27);
 	--color-subtext: rgb(100, 100, 100);
 }
